@@ -1,0 +1,6 @@
+Borrar Archivos de github
+---------------------
+$ git add -u
+$ git commit -m "quitando archivos"
+$ git push -u origin master
+---------------------
